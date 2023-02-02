@@ -1,0 +1,14 @@
+{
+  "name": "c91956f86842baf8",
+  "main": "c91956f86842baf8@1261.js",
+  "version": "1261.0.0",
+  "homepage": "https://observablehq.com/d/c91956f86842baf8",
+  "author": {
+    "name": "Lakshana Kolur",
+    "url": "https://observablehq.com/@lakshana"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
